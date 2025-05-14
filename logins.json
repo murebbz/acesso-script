@@ -2,11 +2,11 @@
   "usuarios": {
     "Ghost": {
       "senha": "1234",
-      "mac": "e9:c2:79:73:07:ce"
+      "uuid": "CC24710F-368C-7444-D6BE-E89C255F8F3D"
     },
     "Beast": {
       "senha": "1234",
-      "mac": "00:05:16:5b:69:12"
+      "uuid": "F4F4D4D4-1122-3344-5566-AABBCCDDEEFF"
     }
   }
 }
