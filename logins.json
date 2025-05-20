@@ -7,6 +7,10 @@
     "Beast": {
       "senha": "1234",
       "uuid": "8AF692BA-18B6-11E8-E896-641C6793AA33"
+    },
+    "Note": {
+      "senha": "1234",
+      "uuid": "1F89CD5D-102A-49FD-5BB0-0CCC47E9A008"
     }
   }
 }
